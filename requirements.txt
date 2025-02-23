@@ -1,0 +1,9 @@
+streamlit
+pandas
+websockets
+postgrest
+supabase
+PyPDF2
+requests
+python-dotenv
+realtime
